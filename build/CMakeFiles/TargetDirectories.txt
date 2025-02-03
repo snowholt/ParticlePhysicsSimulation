@@ -1,0 +1,3 @@
+/home/snowholt/Coding/C/aiChallenge/build/CMakeFiles/particle_sim.dir
+/home/snowholt/Coding/C/aiChallenge/build/CMakeFiles/edit_cache.dir
+/home/snowholt/Coding/C/aiChallenge/build/CMakeFiles/rebuild_cache.dir
